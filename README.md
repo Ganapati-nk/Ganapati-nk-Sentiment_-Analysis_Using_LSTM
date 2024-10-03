@@ -22,7 +22,7 @@
 <h2>Usage</h2>
 <ol>
   <li>Clone the repository: 
-    <pre><code>git clone https://github.com/yourusername/yourrepository.git</code></pre>
+    <pre><code>git clone https://github.com/Ganapati-nk/Sentiment_Analysis_Using_LSTM.git</code></pre>
   </li>
   <li>Install dependencies:
   </li>
